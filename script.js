@@ -1,56 +1,56 @@
 const questions = [
   {
-    question: "1. Layer of the epidermis:",
+    question: "Layer of the epidermis:",
     options: ["vascular", "mesh", "spinous", "papillary"],
     answer: 2
   },
   {
-    question: "2. Increasing the rows of cells in the granular layer is:",
+    question: "Increasing the rows of cells in the granular layer is:",
     options: ["acanthosis", "spongiosis", "parakeratosis", "granulosis"],
     answer: 3
   },
   {
-    question: "3. Skin appendages are:",
+    question: "Skin appendages are:",
     options: ["mucous membranes", "derma", "epidermis", "hair"],
     answer: 3
   },
   {
-    question: "4. The sebum-secreting holocrine gland is:",
+    question: "The sebum-secreting holocrine gland is:",
     options: ["Cooper's gland", "sebaceous gland", "sweat gland", "Bartholin's gland"],
     answer: 1
   },
   {
-    question: "5. Where are the sebaceous glands in the skin:",
+    question: "Where are the sebaceous glands in the skin:",
     options: ["neck", "the scalp", "axillary", "palms"],
     answer: 1
   },
   {
-    question: "6. An increase in the rows of cells of the spinous layer is:",
+    question: "An increase in the rows of cells of the spinous layer is:",
     options: ["acanthosis", "spongiosis", "parakeratosis", "granulosis"],
     answer: 0
   },
   {
-    question: "7. Secondary morphological element:",
+    question: "Secondary morphological element:",
     options: ["flake", "blister", "bubble", "erythema"],
     answer: 0
   },
   {
-    question: "8. The infiltrative morphological element is:",
+    question: "The infiltrative morphological element is:",
     options: ["papule", "flake", "vesicle", "blister"],
     answer: 0
   },
   {
-    question: "9. The exudative morphological element is:",
+    question: "The exudative morphological element is:",
     options: ["papule", "tubercle", "vesicle", "crack"],
     answer: 2
   },
   {
-    question: "10. Primary morphological element:",
+    question: "Primary morphological element:",
     options: ["flake", "scar", "erosion", "erythema"],
     answer: 3
   },
   {
-    question: "11. Choose one location that is most typical for psoriasis:",
+    question: "Choose one location that is most typical for psoriasis:",
     options: [
       "on the palms and soles",
       "on bending surfaces of limbs",
@@ -60,7 +60,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "12. Papules are polygonal, the size from a pinhead to a penny and more, blue-red or purple incolor with a smooth shiny surface and an umbilical depression in the center, severe itching is troubling. Positive Wickham symptoms and isomorphic reaction. What disease do the following symptoms indicate:?",
+    question: "Papules are polygonal, the size from a pinhead to a penny and more, blue-red or purple incolor with a smooth shiny surface and an umbilical depression in the center, severe itching is troubling. Positive Wickham symptoms and isomorphic reaction. What disease do the following symptoms indicate:?",
     options: [
       "lichen planus",
       "secondary syphilis",
@@ -70,7 +70,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "13. Lichen planus can be treated with:",
+    question: "Lichen planus can be treated with:",
     options: [
       "azithromycin",
       "aciclovir",
@@ -80,7 +80,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "14. What do typical case of psoriasis and lichen planus have in common?",
+    question: "What do typical case of psoriasis and lichen planus have in common?",
     options: [
       "intolerable itching",
       "lesions of mucous membranes",
@@ -90,7 +90,7 @@ const questions = [
     answer: 3
   },
   {
-    question: "15. The most typical localization of the rash in lichen planus:",
+    question: "The most typical localization of the rash in lichen planus:",
     options: [
       "scalp",
       "palms and soles",
@@ -100,7 +100,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "16. Psoriasis is characterized by:",
+    question: "Psoriasis is characterized by:",
     options: [
       "superimposed silvery-white scales",
       "monomorphism",
@@ -110,7 +110,7 @@ const questions = [
     answer: 3
   },
   {
-    question: "17. Typical signs of papules in lichen planus:",
+    question: "Typical signs of papules in lichen planus:",
     options: [
       "polygonal outline",
       "waxy sheen",
@@ -120,7 +120,7 @@ const questions = [
     answer: 3
   },
   {
-    question: "18. Primary morphological element for psoriasis:",
+    question: "Primary morphological element for psoriasis:",
     options: [
       "papule",
       "spot",
@@ -130,7 +130,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "19. In addition to the skin, it can also be affected with lichen planus:",
+    question: "In addition to the skin, it can also be affected with lichen planus:",
     options: [
       "joints",
       "mucous membranes",
@@ -140,7 +140,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "20. What contribute to the development of psoriatic erythroderma?",
+    question: "What contribute to the development of psoriatic erythroderma?",
     options: [
       "use of antihistamines",
       "application of corticosteroid ointments",
@@ -150,7 +150,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "21. Choose the diagnostic phenomena characteristic of psoriasis:",
+    question: "Choose the diagnostic phenomena characteristic of psoriasis:",
     options: [
       "Benier-Meshchersky symptom",
       "Wickham's grid",
@@ -160,7 +160,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "22. Psoriasis development factor:",
+    question: "Psoriasis development factor:",
     options: [
       "infection through contact",
       "allergic dermatoses in parents",
@@ -170,7 +170,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "23. In addition to the skin, psoriasis can often affect:",
+    question: "In addition to the skin, psoriasis can often affect:",
     options: [
       "mucous membranes",
       "joints",
@@ -180,7 +180,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "24. State the characteristic pathological processes for psoriasis:",
+    question: "State the characteristic pathological processes for psoriasis:",
     options: [
       "acantholysis",
       "spongiosis",
@@ -190,7 +190,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "25. Specify the pathohistological process most characteristic of lichen planus:",
+    question: "Specify the pathohistological process most characteristic of lichen planus:",
     options: [
       "papillomatosis",
       "vacuole degeneration",
@@ -200,87 +200,87 @@ const questions = [
     answer: 2
   }, 
   {
-    question: "26. List the form of psoriasis:",
+    question: "List the form of psoriasis:",
     options: ["erosive and ulcerative", "hemorrhagic", "pustular", "atrophic"],
     answer: 2
   },
   {
-    question: "27. State the stage of psoriasis:",
+    question: "State the stage of psoriasis:",
     options: ["abortive", "stationary", "widespread", "diffuse"],
     answer: 1
   },
   {
-    question: "28. Atypical form of lichen planus:",
+    question: "Atypical form of lichen planus:",
     options: ["scaly", "progressive", "centrifugal", "erosive-ulcerative"],
     answer: 3
   },
   {
-    question: "29. Typical manifestation for atopic dermatitis:",
+    question: "Typical manifestation for atopic dermatitis:",
     options: ["node", "lichenification", "sclerosis", "atrophy"],
     answer: 1
   },
   {
-    question: "30. Place of typical localization of limited atopic dermatitis:",
+    question: "Place of typical localization of limited atopic dermatitis:",
     options: ["posterior surface of extremities", "flexion surface of the limbs", "palms and soles", "scalp"],
     answer: 1
   },
   {
-    question: "31. Classification of atopic dermatitis by time of development:",
+    question: "Classification of atopic dermatitis by time of development:",
     options: ["the elderly", "senile", "children", "at menopause"],
     answer: 2
   },
   {
-    question: "32. Classification of atopic dermatitis by localization:",
+    question: "Classification of atopic dermatitis by localization:",
     options: ["restricted-localized", "palar-plantar", "in folds", "nail"],
     answer: 0
   },
   {
-    question: "33. Classification of atopic dermatitis by clinical forms:",
+    question: "Classification of atopic dermatitis by clinical forms:",
     options: ["bullous", "hypertrophic", "atrophic", "erythematous squamous"],
     answer: 3
   },
   {
-    question: "34. At what age are first manifestations of atopic dermatitis noted?",
+    question: "At what age are first manifestations of atopic dermatitis noted?",
     options: ["50 years", "before 1 year of age", "30 years", "18-25 years old"],
     answer: 1
   },
   {
-    question: "35. Clinical sign of atopic dermatitis:",
+    question: "Clinical sign of atopic dermatitis:",
     options: ["melanoderma", "pustular rash", "Denier-Morgan's symptom", "positive Nikolsky’s symptom"],
     answer: 2
   },
   {
-    question: "36. Main etiological factor in onset of atopic dermatitis:",
+    question: "Main etiological factor in onset of atopic dermatitis:",
     options: ["overwork", "parental allergic dermatoses", "psoriasis in parents", "solar exposure"],
     answer: 1
   },
   {
-    question: "37. Pathognomonic condition in children with atopic dermatitis:",
+    question: "Pathognomonic condition in children with atopic dermatitis:",
     options: ["thyrotoxicosis", "enzymopathies and intestinal dysbiosis", "helminthiasis", "diabetes"],
     answer: 1
   },
   {
-    question: "38. Diagnosis of atopic dermatitis based on:",
+    question: "Diagnosis of atopic dermatitis based on:",
     options: ["onset in elderly", "presence of red dermographism", "lichenization at elbow and knee bends", "increased IgM level"],
     answer: 2
   },
   {
-    question: "39. Treatment of atopic dermatitis includes:",
+    question: "Treatment of atopic dermatitis includes:",
     options: ["permethrin", "correction of xerosis", "antibiotics", "antimalarials"],
     answer: 1
   },
   {
-    question: "40. Specify the type of warts:",
+    question: "Specify the type of warts:",
     options: ["vulgar", "atrophic", "vesicular", "scalp"],
     answer: 0
   },
   {
-    question: "41. Specify drug effective for simple recurrent herpes:",
+    question: "Specify drug effective for simple recurrent herpes:",
     options: ["azithromycin", "valacyclovir", "oratadine", "terbinafine"],
     answer: 1
   },
   {
-    question: "42. What is typical for ano-genital warts:",
+    question: "What is typical for ano-genital warts:",
     options: [
       "ulcers, hemorrhagic crusts",
       "papules on a narrow base, uneven surface, bleed on injury",
@@ -290,37 +290,37 @@ const questions = [
     answer: 1
   },
   {
-    question: "43. Sign characteristic of ano-genital warts:",
+    question: "Sign characteristic of ano-genital warts:",
     options: ["itching", "wide", "hard on palpation", "like a cockscomb"],
     answer: 3
   },
   {
-    question: "44. Ano-genital warts differentiated with:",
+    question: "Ano-genital warts differentiated with:",
     options: ["bartholinitis", "pyoderma", "syphilitic condillomas", "genital herpes"],
     answer: 2
   },
   {
-    question: "45. Treatment method for genital warts:",
+    question: "Treatment method for genital warts:",
     options: ["cryotherapy", "UV irradiation", "antibiotics", "antifungal"],
     answer: 0
   },
   {
-    question: "46. Sign typical for herpes zoster:",
+    question: "Sign typical for herpes zoster:",
     options: ["no subjective feelings", "itching", "nodes", "grouped vesicles on edematous-hyperemic background"],
     answer: 3
   },
   {
-    question: "47. Clinical variants of herpes zoster:",
+    question: "Clinical variants of herpes zoster:",
     options: ["atrophic", "hemorrhagic", "erosive and ulcerative", "exudative"],
     answer: 1
   },
   {
-    question: "48. Medications for treatment of herpes zoster:",
+    question: "Medications for treatment of herpes zoster:",
     options: ["tetracycline", "amoxicillin", "famacyclovir", "hydroxychloroquine"],
     answer: 2
   },
   {
-    question: "49. The laboratory test to confirm the diagnosis of pemphigus vulgaris disease is:",
+    question: "The laboratory test to confirm the diagnosis of pemphigus vulgaris disease is:",
     options: [
       "smear examination for acantholytic cells",
       "clinical blood test",
@@ -330,57 +330,57 @@ const questions = [
     answer: 0
   },
   {
-    question: "50. What are the characteristics of Dühring's dermatosis herpetiformis?",
+    question: "What are the characteristics of Dühring's dermatosis herpetiformis?",
     options: ["primary element - pustule", "polymorphism of rash", "no objective feeling", "positive Nikolsky's symptom"],
     answer: 1
   },
   {
-    question: "51. State the diagnostic symptom to confirm the diagnosis of pemphigus:",
+    question: "State the diagnostic symptom to confirm the diagnosis of pemphigus:",
     options: ["Kebner's phenomenon", "Balzer test", "Pincus symptom", "Asbo-Hansen's syndrome"],
     answer: 3
   },
   {
-    question: "52. Treatment of Dühring's dermatosis herpetiformis includes:",
+    question: "Treatment of Dühring's dermatosis herpetiformis includes:",
     options: ["2% salicylic paste", "penicillin", "hydroxychloroquine", "dapsone"],
     answer: 3
   },
   {
-    question: "53. In a 53-year-old patient, for no apparent reason, large blisters with a flabby lining and bright red erosion appeared on the mucous membrane of the oral cavity, and then on the skin of the trunk. The process is accompanied by pain, which makes it difficult to eat. Nikolsky's symptom is positive. Diagnosis?",
+    question: "In a 53-year-old patient, for no apparent reason, large blisters with a flabby lining and bright red erosion appeared on the mucous membrane of the oral cavity, and then on the skin of the trunk. The process is accompanied by pain, which makes it difficult to eat. Nikolsky's symptom is positive. Diagnosis?",
     options: ["toxicoderma", "simple psoriasis", "syphilitic pemphigus", "pemphigus vulgaris"],
     answer: 3
   },
   {
-    question: "54. The most typical location of rash in pemphigus vulgaris disease is:",
+    question: "The most typical location of rash in pemphigus vulgaris disease is:",
     options: ["face", "mucous membrane of mouth and trunk", "palms and soles", "genitals"],
     answer: 1
   },
   {
-    question: "55. State the drug of choice for treatment of pemphigus vulgaris:",
+    question: "State the drug of choice for treatment of pemphigus vulgaris:",
     options: ["antibiotics", "vitamins", "fentivazide", "prednisolone"],
     answer: 3
   },
   {
-    question: "56. Morphological element in Duhring's herpetiform dermatosis:",
+    question: "Morphological element in Duhring's herpetiform dermatosis:",
     options: ["vesicles", "tubercle", "pustule", "node"],
     answer: 0
   },
   {
-    question: "57. Therapeutic nutrition for patients with During's dermatitis include:",
+    question: "Therapeutic nutrition for patients with During's dermatitis include:",
     options: ["exclusion of cereals", "hypoallergenic diet", "limit alcohol", "limit fatty foods"],
     answer: 0
   },
   {
-    question: "58. Specify the depth of the location of the bladder with pemphigus vulgaris:",
+    question: "Specify the depth of the location of the bladder with pemphigus vulgaris:",
     options: ["under stratum corneum", "intraepidermal", "subepidermal", "subdermal"],
     answer: 1
   },
   {
-    question: "59. Inguinal epidermophytosis should be differentiated from:",
+    question: "Inguinal epidermophytosis should be differentiated from:",
     options: ["eczema", "herpes simplex", "erythrasma", "lichen planus"],
     answer: 2
   },
   {
-    question: "60. What factors contribute to the occurrence of mycosis of the foot?",
+    question: "What factors contribute to the occurrence of mycosis of the foot?",
     options: [
       "children's age",
       "contact with pets",
@@ -390,62 +390,62 @@ const questions = [
     answer: 3
   },
   {
-    question: "61. Specify clinical form of foot mycosis?",
+    question: "Specify clinical form of foot mycosis?",
     options: ["progressive", "verrucous", "dyshidrotic", "atrophic"],
     answer: 2
   },
   {
-    question: "62. What is characteristic of rubromycosis?",
+    question: "What is characteristic of rubromycosis?",
     options: ["scar", "small pustules", "bubble", "skin and nail involvement of feet and hands"],
     answer: 3
   },
   {
-    question: "63. What contribute to the development of candidiasis?",
+    question: "What contribute to the development of candidiasis?",
     options: ["prolonged antifungal drugs use", "herpes simplex", "prolonged corticosteroid use", "atopic dermatitis"],
     answer: 2
   },
   {
-    question: "64. Method for diagnosing microsporia:",
+    question: "Method for diagnosing microsporia:",
     options: ["bacteriological", "serological", "immunological", "Nikolsky's symptom"],
     answer: 0
   },
   {
-    question: "65. Deep trichophytosis of the scalp should be differentiated from:",
+    question: "Deep trichophytosis of the scalp should be differentiated from:",
     options: ["pediculosis", "lichen planus", "Rosa lichen Gibert", "discoid lupus erythematosus"],
     answer: 3
   },
   {
-    question: "66. A patient after solar pingmentation, which appeared after the summer season, had multiple hypopigmented spots of various shapes and sizes on the trunk. There are single spots of yellowish-brown color with peeling. Balzser's test is positive. Diagnosis?",
+    question: "A patient after solar pingmentation, which appeared after the summer season, had multiple hypopigmented spots of various shapes and sizes on the trunk. There are single spots of yellowish-brown color with peeling. Balzser's test is positive. Diagnosis?",
     options: ["vitiligo", "candidiasis", "seborrheic eczema", "pityriasis versicolor"],
     answer: 3
   },
   {
-    question: "67. Frequent localization of candidiasis:",
+    question: "Frequent localization of candidiasis:",
     options: ["skin folds", "hair", "extensor surfaces", "palms and soles"],
     answer: 0
   },
   {
-    question: "68. Superficial form of streptoderma:",
+    question: "Superficial form of streptoderma:",
     options: ["vulgar ecthyma", "ostiofolliculitis", "carbuncle", "bullous impetigo"],
     answer: 3
   },
   {
-    question: "69. In what form of staphyloderma is clothing friction the main predisposing factor?",
+    question: "In what form of staphyloderma is clothing friction the main predisposing factor?",
     options: ["bubble impetigo", "vesiculopustulosis", "pemphigus of newborns", "furunculosis"],
     answer: 3
   },
   {
-    question: "70. Staphylococcal pyoderma includes:",
+    question: "Staphylococcal pyoderma includes:",
     options: ["vulgar ecthyma", "furunculosis", "bubble impetigo", "lichen simplex"],
     answer: 1
   },
   {
-    question: "71. Treatment of patients with furunculosis includes medications:",
+    question: "Treatment of patients with furunculosis includes medications:",
     options: ["antifungal", "antibiotic", "hydroxychloroquine", "antiviral"],
     answer: 1
   },
   {
-    question: "72. State which clinical feature is characteristic of streptoderma:",
+    question: "State which clinical feature is characteristic of streptoderma:",
     options: [
       "pustules on palms and soles",
       "pustules bounded by follicles",
@@ -455,22 +455,22 @@ const questions = [
     answer: 2
   },
   {
-    question: "73. Specify among the following the superficial form of staphyloderma:",
+    question: "Specify among the following the superficial form of staphyloderma:",
     options: ["furuncle", "ostiofolliculitis", "hydradenitis", "none"],
     answer: 1
   },
   {
-    question: "74. The appointment of a systemic antibiotic is necessary:",
+    question: "The appointment of a systemic antibiotic is necessary:",
     options: ["single folliculitis", "single ostiofolliculitis", "furuncle on face", "furuncle on back"],
     answer: 2
   },
   {
-    question: "75. Deep form of streptoderma:",
+    question: "Deep form of streptoderma:",
     options: ["epidemic bubble of newborns", "bubble impetigo", "folliculitis", "ecthyma vulgaris"],
     answer: 3
   },
   {
-    question: "76. Factor of natural skin resistance to pyococci:",
+    question: "Factor of natural skin resistance to pyococci:",
     options: [
       "dry skin",
       "mildly acidic environment of the skin surface",
@@ -480,7 +480,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "77. Scabies infection route:",
+    question: "Scabies infection route:",
     options: [
       "contact with animals",
       "sexual intercourse",
@@ -490,7 +490,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "78. Drug for treatment of head lice:",
+    question: "Drug for treatment of head lice:",
     options: [
       "betamethasone ointment",
       "permethrin shampoo",
@@ -500,7 +500,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "79. Treatment of scabies:",
+    question: "Treatment of scabies:",
     options: [
       "zinc ointment",
       "UV rays",
@@ -510,7 +510,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "80. Medication used for scabies:",
+    question: "Medication used for scabies:",
     options: [
       "10% KOH",
       "0.9% NaCl",
@@ -520,7 +520,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "81. Typical location of scabies:",
+    question: "Typical location of scabies:",
     options: [
       "interdigital folds of fingers",
       "scalp",
@@ -530,7 +530,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "82. Most characteristic feature of scabies:",
+    question: "Most characteristic feature of scabies:",
     options: [
       "polyadenitis",
       "eczema in lesions",
@@ -540,7 +540,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "83. Where do lice parasitize?",
+    question: "Where do lice parasitize?",
     options: [
       "folds",
       "head",
@@ -550,7 +550,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "84. Disease transmitted by Pediculus humanus corporis:",
+    question: "Disease transmitted by Pediculus humanus corporis:",
     options: [
       "scabies",
       "typhus",
@@ -560,7 +560,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "85. Most common complication of scabies:",
+    question: "Most common complication of scabies:",
     options: [
       "secondary pyoderma",
       "paralysis",
@@ -570,7 +570,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "86. Primary morphological element of scabies:",
+    question: "Primary morphological element of scabies:",
     options: [
       "tubercle",
       "papule-vesicle",
@@ -580,7 +580,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "87. Atypical form of hard chancre:",
+    question: "Atypical form of hard chancre:",
     options: [
       "chancre-amygdalitis",
       "phimosis",
@@ -590,7 +590,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "88. Typical chancre should be differentiated with:",
+    question: "Typical chancre should be differentiated with:",
     options: [
       "herpes simplex",
       "anogenital wart",
@@ -600,7 +600,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "89. Complication of hard chancre:",
+    question: "Complication of hard chancre:",
     options: [
       "lymphangitis",
       "multiple ostiofolliculitis",
@@ -610,7 +610,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "90. Sign of typical hard chancre:",
+    question: "Sign of typical hard chancre:",
     options: [
       "soreness",
       "purulent discharge",
@@ -620,7 +620,7 @@ const questions = [
     answer: 3
   },
   {
-    question: "91. Average incubation period of syphilis:",
+    question: "Average incubation period of syphilis:",
     options: [
       "1 week",
       "2 weeks",
@@ -630,7 +630,7 @@ const questions = [
     answer: 3
   },
   {
-    question: "92. Rare localization of hard chancre:",
+    question: "Rare localization of hard chancre:",
     options: [
       "head of penis",
       "labia minora",
@@ -640,7 +640,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "93. Main way treponema spreads inside body:",
+    question: "Main way treponema spreads inside body:",
     options: [
       "lymphogenous",
       "intestinal tract",
@@ -650,7 +650,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "94. Characteristic of secondary syphilis:",
+    question: "Characteristic of secondary syphilis:",
     options: [
       "acute inflammation",
       "painful lesions",
@@ -660,7 +660,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "95. Sign of secondary period of syphilis:",
+    question: "Sign of secondary period of syphilis:",
     options: [
       "hard chancre",
       "diffuse papular infiltration",
@@ -670,7 +670,7 @@ const questions = [
     answer: 3
   },
   {
-    question: "96. Differential diagnosis with pustular syphilis:",
+    question: "Differential diagnosis with pustular syphilis:",
     options: [
       "rosacea",
       "vulgar ecthyma",
@@ -680,7 +680,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "97. Typical symptom of syphilitic sore throat:",
+    question: "Typical symptom of syphilitic sore throat:",
     options: [
       "sharp borders, pale mucosa",
       "soreness",
@@ -690,7 +690,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "98. Most contagious manifestation of secondary syphilis:",
+    question: "Most contagious manifestation of secondary syphilis:",
     options: [
       "roseola",
       "papule on trunk",
@@ -700,7 +700,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "99. Syphilitic alopecia differentiated with:",
+    question: "Syphilitic alopecia differentiated with:",
     options: [
       "microsporia, trichophytosis",
       "psoriasis scalp",
@@ -710,7 +710,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "100. Varieties of pigmented syphilis:",
+    question: "Varieties of pigmented syphilis:",
     options: [
       "bubble",
       "in the form of spots",
@@ -720,7 +720,7 @@ const questions = [
     answer: 1
   },
   {
-  question: "101. With what do you need to differentiate gummous syphilis?",
+  question: "With what do you need to differentiate gummous syphilis?",
   options: [
     "psoriasis of the scalp",
     "multiple ostiofoliculitis",
@@ -730,7 +730,7 @@ const questions = [
   answer: 2
   },
   {
-    question: "102. Clinical manifestations characteristic of tertiary syphilis:",
+    question: "Clinical manifestations characteristic of tertiary syphilis:",
     options: [
       "papules of palms and soles",
       "pustules",
@@ -740,7 +740,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "103. What morphologically is syphilitic gumma?",
+    question: "What morphologically is syphilitic gumma?",
     options: [
       "a cluster of tubercles",
       "the accumulation of papules",
@@ -750,7 +750,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "104. Which complication can occur during treatment with penicillin?",
+    question: "Which complication can occur during treatment with penicillin?",
     options: [
       "lung embolism",
       "polyneuritis",
@@ -760,7 +760,7 @@ const questions = [
     answer: 3
   },
   {
-    question: "105. A syphilitic tubercle should be differentiated from:",
+    question: "A syphilitic tubercle should be differentiated from:",
     options: [
       "lichen planus",
       "psoriasis",
@@ -770,7 +770,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "106. Varieties of syphilitic tubercles:",
+    question: "Varieties of syphilitic tubercles:",
     options: [
       "serpiginous (creeping)",
       "giant",
@@ -780,7 +780,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "107. For epidermophytosis inguinal it is characteristic:",
+    question: "For epidermophytosis inguinal it is characteristic:",
     options: [
       "peripheral border of papules of vesicles",
       "infection from animals",
@@ -790,7 +790,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "108. Methods for diagnosing pityriasis versicolor:",
+    question: "Methods for diagnosing pityriasis versicolor:",
     options: [
       "serological",
       "Balzer's iodine test",
@@ -800,7 +800,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "109. Tuberculous lupus is differentiated with:",
+    question: "Tuberculous lupus is differentiated with:",
     options: [
       "discoid lupus erythematosus",
       "rosacea",
@@ -810,7 +810,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "110. Diagnostic sign in vulgar lupus:",
+    question: "Diagnostic sign in vulgar lupus:",
     options: [
       "The Benier-Meshchersky symptom",
       "the symptom of apple jelly",
@@ -820,7 +820,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "111. Clinical manifestations of scrofuloderma:",
+    question: "Clinical manifestations of scrofuloderma:",
     options: [
       "papules in the deep layers of the dermis",
       "pustules",
@@ -830,7 +830,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "112. Papulonecrotic tuberculosis is localized on:",
+    question: "Papulonecrotic tuberculosis is localized on:",
     options: [
       "face, torso",
       "scalp",
@@ -840,7 +840,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "113. Papulonecrotic tuberculosis is differentiated from:",
+    question: "Papulonecrotic tuberculosis is differentiated from:",
     options: [
       "psoriasis",
       "lichen planus",
@@ -850,7 +850,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "114. Clinical test for leprosy:",
+    question: "Clinical test for leprosy:",
     options: [
       "Balzer's test",
       "test with a Wood lamp",
@@ -860,7 +860,7 @@ const questions = [
     answer: 3
   },
   {
-    question: "115. Lepromatous type of leprosy differentiates with:",
+    question: "Lepromatous type of leprosy differentiates with:",
     options: [
       "psoriasis",
       "lichen planus",
@@ -870,7 +870,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "116. Rash with lepromatous type of leprosy:",
+    question: "Rash with lepromatous type of leprosy:",
     options: [
       "blister",
       "tubercle",
@@ -880,7 +880,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "117. For the treatment of leprosy, use:",
+    question: "For the treatment of leprosy, use:",
     options: [
       "azithromycin",
       "acyclovir",
@@ -890,7 +890,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "118. Clinical form of leprosy:",
+    question: "Clinical form of leprosy:",
     options: [
       "syphiloform",
       "indurative",
@@ -900,7 +900,7 @@ const questions = [
     answer: 3
   },
   {
-  question: "119. Grouped vesicles are typical of:",
+  question: "Grouped vesicles are typical of:",
   options: [
     "pemphigus",
     "primary syphilis",
@@ -910,7 +910,7 @@ const questions = [
   answer: 3
   },
   {
-    question: "120. Vesicles with pain along nerve trunks are typical of:",
+    question: "Vesicles with pain along nerve trunks are typical of:",
     options: [
       "pemphigus",
       "primary syphilis",
@@ -920,7 +920,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "121. Erosion with dense painless infiltration at base is typical of:",
+    question: "Erosion with dense painless infiltration at base is typical of:",
     options: [
       "pemphigus",
       "primary syphilis",
@@ -930,7 +930,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "122. Bubbles, erosion, positive Nikolsky sign are typical of:",
+    question: "Bubbles, erosion, positive Nikolsky sign are typical of:",
     options: [
       "pemphigus",
       "primary syphilis",
@@ -940,7 +940,7 @@ const questions = [
     answer: 0
   },
   {
-  question: "123. Clothes louse lives in:",
+  question: "Clothes louse lives in:",
   options: [
     "bristly hair",
     "long hair",
@@ -949,7 +949,7 @@ const questions = [
   answer: 2
   },
   {
-    question: "124. Pubic louse lives in:",
+    question: "Pubic louse lives in:",
     options: [
       "bristly hair",
       "long hair",
@@ -958,7 +958,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "125. Head louse lives in:",
+    question: "Head louse lives in:",
     options: [
       "bristly hair",
       "long hair",
@@ -968,7 +968,9 @@ const questions = [
   }
 ];
 
-// ===== RANDOMIZE FUNCTION =====
+// =====================
+// RANDOMIZE FUNCTION
+// =====================
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -976,29 +978,37 @@ function shuffleArray(array) {
   }
 }
 
-// ===== RANDOMIZE QUESTIONS BEFORE START =====
+// Shuffle questions before exam starts
 shuffleArray(questions);
 
-// ===== VARIABLES =====
+// =====================
+// VARIABLES
+// =====================
 let current = 0;
 let score = 0;
 let answered = false;
 
-// ===== DOM ELEMENTS =====
+// =====================
+// DOM ELEMENTS
+// =====================
 const questionEl = document.getElementById("question");
 const optionsEl = document.getElementById("options");
 const feedbackEl = document.getElementById("feedback");
 const scoreEl = document.getElementById("score");
 const nextBtn = document.getElementById("nextBtn");
 
-// ===== LOAD QUESTION =====
+// =====================
+// LOAD QUESTION
+// =====================
 function loadQuestion() {
   answered = false;
   feedbackEl.textContent = "";
   optionsEl.innerHTML = "";
 
   const q = questions[current];
-  questionEl.textContent = q.question;
+
+  // Dynamic numbering
+  questionEl.textContent = `${current + 1}. ${q.question}`;
 
   q.options.forEach((option, index) => {
     const btn = document.createElement("button");
@@ -1010,7 +1020,9 @@ function loadQuestion() {
   scoreEl.textContent = `Score: ${score}/${questions.length}`;
 }
 
-// ===== CHECK ANSWER =====
+// =====================
+// CHECK ANSWER
+// =====================
 function checkAnswer(selected, btn) {
   if (answered) return;
 
@@ -1032,10 +1044,11 @@ function checkAnswer(selected, btn) {
   scoreEl.textContent = `Score: ${score}/${questions.length}`;
 }
 
-// ===== NEXT BUTTON =====
+// =====================
+// NEXT BUTTON
+// =====================
 nextBtn.onclick = () => {
 
-  // ❌ Prevent skipping without answering
   if (!answered) {
     feedbackEl.textContent = "Please answer before moving to next.";
     return;
@@ -1052,5 +1065,7 @@ nextBtn.onclick = () => {
   }
 };
 
-// ===== START EXAM =====
+// =====================
+// START EXAM
+// =====================
 loadQuestion();
