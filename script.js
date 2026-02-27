@@ -60,7 +60,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "12. Papules are polygonal, blue-red or purple with umbilical depression and Wickham symptoms indicate:",
+    question: "12. Papules are polygonal, the size from a pinhead to a penny and more, blue-red or purple incolor with a smooth shiny surface and an umbilical depression in the center, severe itching is troubling. Positive Wickham symptoms and isomorphic reaction. What disease do the following symptoms indicate:?",
     options: [
       "lichen planus",
       "secondary syphilis",
@@ -80,7 +80,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "14. What do psoriasis and lichen planus have in common?",
+    question: "14. What do typical case of psoriasis and lichen planus have in common?",
     options: [
       "intolerable itching",
       "lesions of mucous membranes",
@@ -90,7 +90,7 @@ const questions = [
     answer: 3
   },
   {
-    question: "15. Most typical localization of rash in lichen planus:",
+    question: "15. The most typical localization of the rash in lichen planus:",
     options: [
       "scalp",
       "palms and soles",
@@ -130,7 +130,7 @@ const questions = [
     answer: 0
   },
   {
-    question: "19. In addition to skin, lichen planus affects:",
+    question: "19. In addition to the skin, it can also be affected with lichen planus:",
     options: [
       "joints",
       "mucous membranes",
@@ -140,7 +140,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "20. What contributes to psoriatic erythroderma?",
+    question: "20. What contribute to the development of psoriatic erythroderma?",
     options: [
       "use of antihistamines",
       "application of corticosteroid ointments",
@@ -150,7 +150,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "21. Diagnostic phenomena characteristic of psoriasis:",
+    question: "21. Choose the diagnostic phenomena characteristic of psoriasis:",
     options: [
       "Benier-Meshchersky symptom",
       "Wickham's grid",
@@ -170,7 +170,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "23. In addition to skin, psoriasis affects:",
+    question: "23. In addition to the skin, psoriasis can often affect:",
     options: [
       "mucous membranes",
       "joints",
@@ -180,7 +180,7 @@ const questions = [
     answer: 1
   },
   {
-    question: "24. Pathological process characteristic for psoriasis:",
+    question: "24. State the characteristic pathological processes for psoriasis:",
     options: [
       "acantholysis",
       "spongiosis",
@@ -190,7 +190,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "25. Pathohistological process in lichen planus:",
+    question: "25. Specify the pathohistological process most characteristic of lichen planus:",
     options: [
       "papillomatosis",
       "vacuole degeneration",
@@ -320,7 +320,7 @@ const questions = [
     answer: 2
   },
   {
-    question: "49. Lab test to confirm pemphigus vulgaris:",
+    question: "49. The laboratory test to confirm the diagnosis of pemphigus vulgaris disease is:",
     options: [
       "smear examination for acantholytic cells",
       "clinical blood test",
@@ -330,12 +330,12 @@ const questions = [
     answer: 0
   },
   {
-    question: "50. Characteristics of Dühring's dermatosis herpetiformis:",
+    question: "50. What are the characteristics of Dühring's dermatosis herpetiformis?",
     options: ["primary element - pustule", "polymorphism of rash", "no objective feeling", "positive Nikolsky's symptom"],
     answer: 1
   },
   {
-    question: "51. Diagnostic symptom to confirm pemphigus:",
+    question: "51. State the diagnostic symptom to confirm the diagnosis of pemphigus:",
     options: ["Kebner's phenomenon", "Balzer test", "Pincus symptom", "Asbo-Hansen's syndrome"],
     answer: 3
   },
@@ -345,42 +345,42 @@ const questions = [
     answer: 3
   },
   {
-    question: "53. Large flabby blisters, oral mucosa involvement, positive Nikolsky symptom. Diagnosis?",
+    question: "53. In a 53-year-old patient, for no apparent reason, large blisters with a flabby lining and bright red erosion appeared on the mucous membrane of the oral cavity, and then on the skin of the trunk. The process is accompanied by pain, which makes it difficult to eat. Nikolsky's symptom is positive. Diagnosis?",
     options: ["toxicoderma", "simple psoriasis", "syphilitic pemphigus", "pemphigus vulgaris"],
     answer: 3
   },
   {
-    question: "54. Most typical location of rash in pemphigus vulgaris:",
+    question: "54. The most typical location of rash in pemphigus vulgaris disease is:",
     options: ["face", "mucous membrane of mouth and trunk", "palms and soles", "genitals"],
     answer: 1
   },
   {
-    question: "55. Drug of choice for pemphigus vulgaris:",
+    question: "55. State the drug of choice for treatment of pemphigus vulgaris:",
     options: ["antibiotics", "vitamins", "fentivazide", "prednisolone"],
     answer: 3
   },
   {
-    question: "56. Morphological element in Dühring's dermatosis:",
+    question: "56. Morphological element in Duhring's herpetiform dermatosis:",
     options: ["vesicles", "tubercle", "pustule", "node"],
     answer: 0
   },
   {
-    question: "57. Therapeutic nutrition in Dühring's dermatitis:",
+    question: "57. Therapeutic nutrition for patients with During's dermatitis include:",
     options: ["exclusion of cereals", "hypoallergenic diet", "limit alcohol", "limit fatty foods"],
     answer: 0
   },
   {
-    question: "58. Depth of blister in pemphigus vulgaris:",
+    question: "58. Specify the depth of the location of the bladder with pemphigus vulgaris:",
     options: ["under stratum corneum", "intraepidermal", "subepidermal", "subdermal"],
     answer: 1
   },
   {
-    question: "59. Inguinal epidermophytosis differentiated from:",
+    question: "59. Inguinal epidermophytosis should be differentiated from:",
     options: ["eczema", "herpes simplex", "erythrasma", "lichen planus"],
     answer: 2
   },
   {
-    question: "60. Factors contributing to foot mycosis:",
+    question: "60. What factors contribute to the occurrence of mycosis of the foot?",
     options: [
       "children's age",
       "contact with pets",
@@ -390,18 +390,18 @@ const questions = [
     answer: 3
   },
   {
-    question: "61. Clinical form of foot mycosis:",
+    question: "61. Specify clinical form of foot mycosis?",
     options: ["progressive", "verrucous", "dyshidrotic", "atrophic"],
     answer: 2
   },
   {
-    question: "62. Characteristic of rubromycosis:",
+    question: "62. What is characteristic of rubromycosis?",
     options: ["scar", "small pustules", "bubble", "skin and nail involvement of feet and hands"],
     answer: 3
   },
   {
-    question: "63. Contributes to candidiasis:",
-    options: ["prolonged antifungal use", "herpes simplex", "prolonged corticosteroid use", "atopic dermatitis"],
+    question: "63. What contribute to the development of candidiasis?",
+    options: ["prolonged antifungal drugs use", "herpes simplex", "prolonged corticosteroid use", "atopic dermatitis"],
     answer: 2
   },
   {
@@ -410,12 +410,12 @@ const questions = [
     answer: 0
   },
   {
-    question: "65. Deep trichophytosis differentiated from:",
+    question: "65. Deep trichophytosis of the scalp should be differentiated from:",
     options: ["pediculosis", "lichen planus", "Rosa lichen Gibert", "discoid lupus erythematosus"],
     answer: 3
   },
   {
-    question: "66. Hypopigmented spots, positive Balzer test. Diagnosis?",
+    question: "66. A patient after solar pingmentation, which appeared after the summer season, had multiple hypopigmented spots of various shapes and sizes on the trunk. There are single spots of yellowish-brown color with peeling. Balzser's test is positive. Diagnosis?",
     options: ["vitiligo", "candidiasis", "seborrheic eczema", "pityriasis versicolor"],
     answer: 3
   },
@@ -430,7 +430,7 @@ const questions = [
     answer: 3
   },
   {
-    question: "69. Clothing friction predisposes to:",
+    question: "69. In what form of staphyloderma is clothing friction the main predisposing factor?",
     options: ["bubble impetigo", "vesiculopustulosis", "pemphigus of newborns", "furunculosis"],
     answer: 3
   },
@@ -440,12 +440,12 @@ const questions = [
     answer: 1
   },
   {
-    question: "71. Treatment of furunculosis includes:",
+    question: "71. Treatment of patients with furunculosis includes medications:",
     options: ["antifungal", "antibiotic", "hydroxychloroquine", "antiviral"],
     answer: 1
   },
   {
-    question: "72. Characteristic of streptoderma:",
+    question: "72. State which clinical feature is characteristic of streptoderma:",
     options: [
       "pustules on palms and soles",
       "pustules bounded by follicles",
@@ -455,12 +455,12 @@ const questions = [
     answer: 2
   },
   {
-    question: "73. Superficial form of staphyloderma:",
+    question: "73. Specify among the following the superficial form of staphyloderma:",
     options: ["furuncle", "ostiofolliculitis", "hydradenitis", "none"],
     answer: 1
   },
   {
-    question: "74. Systemic antibiotic necessary for:",
+    question: "74. The appointment of a systemic antibiotic is necessary:",
     options: ["single folliculitis", "single ostiofolliculitis", "furuncle on face", "furuncle on back"],
     answer: 2
   },
